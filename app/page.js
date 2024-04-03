@@ -10,7 +10,7 @@ const Home = () => {
             Your AI language companion. Powered by OpenAI, it enhances your
             conversations, content creation, and more!
           </p>
-          <Link href="/chat" className="btn btn-secondary ">
+          <Link href="/chat" className="btn btn-outline ">
             get started
           </Link>
         </div>
